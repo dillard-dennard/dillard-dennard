@@ -1,7 +1,7 @@
-<h1>Hi, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I am Full Stack Developer</h1>
+<h1>Hi, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I am React && React Native Developer</h1>
 <p align="left">
 Nice to meet you! 🤗 <br/>
-I'm very familiar with MERN STACK | React Native | BlockChain | DApp | Smart Contract | Web3.js | MERN | MEAN As Full-stack developer.
+I'm very familiar with MERN STACK | React Native | BlockChain | DApp | Smart Contract | Web3.js | MERN.
 </p>
 
 
